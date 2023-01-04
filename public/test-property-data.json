@@ -1,0 +1,142 @@
+{
+    "data": {
+        "success": true,
+        "data": {
+            "propertyData": {
+                "records": [
+                    {
+                        "id": "b285b8af19b5e5ad347085d0ec2f37a2",
+                        "geoType": "public-record",
+                        "address": {
+                            "deliveryLine": "2820 S Gaylord St",
+                            "city": "Denver",
+                            "state": "CO",
+                            "zip": "80210",
+                            "components": {
+                                "primaryNumber": "2820",
+                                "predirectional": "S",
+                                "streetName": "Gaylord",
+                                "suffix": "St"
+                            },
+                            "street": "2820 S Gaylord St"
+                        },
+                        "apn": "05351-11-004-000",
+                        "beds": 4,
+                        "baths": {
+                            "total": 2,
+                            "full": 2,
+                            "half": 0
+                        },
+                        "coordinates": {
+                            "latitude": 39.665631,
+                            "longitude": -104.961413
+                        },
+                        "county": "Denver",
+                        "lotSize": {
+                            "sqft": 6900,
+                            "acres": 0.16
+                        },
+                        "propertyType": "RSFR",
+                        "size": 1264
+                    }
+                ]
+            },
+            "avmData": {
+                "valuations": {
+                    "general": {
+                        "EMV": "512385",
+                        "low": 491889,
+                        "high": 532880,
+                        "accuracy": 4
+                    },
+                    "default": {
+                        "EMV": 512385
+                    }
+                },
+                "address": {
+                    "deliveryLine": "2820 S Gaylord St",
+                    "city": "Denver",
+                    "state": "CO",
+                    "zip": "80210",
+                    "street": "2820 S Gaylord St"
+                },
+                "coordinates": {
+                    "latitude": 39.665631,
+                    "longitude": -104.961413
+                },
+                "attributes": {
+                    "id": "b285b8af19b5e5ad347085d0ec2f37a2",
+                    "beds": 4,
+                    "baths": 2,
+                    "size": 1264,
+                    "lotSize": {
+                        "sqft": 6900,
+                        "acres": 0.16
+                    },
+                    "stories": 2,
+                    "yearBuilt": 1953,
+                    "taxValue": 28370,
+                    "taxes": 2195,
+                    "apn": "05351-11-004-000",
+                    "propertyType": "Single-Family",
+                    "county": "Denver",
+                    "salePrice": 348000,
+                    "saleDate": 1411344000
+                },
+                "heuristics": {
+                    "period": 4,
+                    "radius": 0.25,
+                    "count": 20
+                },
+                "distributions": {
+                    "age": {
+                        "average": 63,
+                        "above": 20,
+                        "below": 25
+                    },
+                    "price": {
+                        "average": 663487,
+                        "above": 50,
+                        "below": 20
+                    },
+                    "pricePerSqFt": {
+                        "average": 415.31,
+                        "above": 35,
+                        "below": 30
+                    },
+                    "size": {
+                        "average": 1657,
+                        "above": 65,
+                        "below": 25
+                    }
+                }
+            }
+        },
+        "error": ""
+    },
+    "status": 200,
+    "statusText": "",
+    "headers": {
+        "content-type": "application/json; charset=utf-8",
+        "cache-control": "private",
+        "content-length": "684"
+    },
+    "config": {
+        "url": "https://us-central1-re-app-606bc.cloudfunctions.net/api/propertydata?address=2820%20S%20Gaylord%20St&city=Denver&state=CO&fulladdress=2820%20S%20Gaylord%20St%20Denver%20CO",
+        "headers": {
+            "Accept": "application/json, text/plain, */*"
+        },
+        "transformRequest": [
+            null
+        ],
+        "transformResponse": [
+            null
+        ],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "method": "get"
+    },
+    "request": {}
+}

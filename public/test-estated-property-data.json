@@ -1,0 +1,312 @@
+{
+    "data": {
+        "success": true,
+        "data": [
+            {
+                "metadata": {
+                    "property_id": 152039290,
+                    "published_at": null,
+                    "updated_at": "2019-10-06",
+                    "upi": "US-08035-N-0351827-R-N",
+                    "release_version": "v128.7"
+                },
+                "addresses": [
+                    {
+                        "street_number": "9905",
+                        "street_pre_direction": null,
+                        "street_name": "Ramshead",
+                        "street_suffix": "Ct",
+                        "street_post_direction": null,
+                        "unit_number": null,
+                        "formatted_street_address": "9905 Ramshead Ct",
+                        "city": "Highlands Ranch",
+                        "state": "CO",
+                        "zip_code": "80130",
+                        "zip_code_plus_four": "3821"
+                    }
+                ],
+                "geocoding": {
+                    "parcel_centroid": {
+                        "latitude": null,
+                        "longitude": null
+                    },
+                    "rooftop": {
+                        "latitude": 39.53577,
+                        "longitude": -104.90597
+                    },
+                    "street": {
+                        "latitude": 39.535724693,
+                        "longitude": -104.905575516
+                    }
+                },
+                "parcel": {
+                    "depth": null,
+                    "width": null,
+                    "size": 16161,
+                    "acres": 0.371,
+                    "range": "67",
+                    "township": "06",
+                    "section": "17",
+                    "block": "6",
+                    "lot": "4",
+                    "location_description": null,
+                    "building_count": 1,
+                    "boundaries": {
+                        "srid": null,
+                        "wkt": null,
+                        "geojson": null
+                    }
+                },
+                "land_use": {
+                    "classification_code": "R-SFR",
+                    "category": "Residential",
+                    "subcategory": "Single Family Residence",
+                    "source_code": null,
+                    "zoning": null
+                },
+                "structures": [
+                    {
+                        "year_built": 1991,
+                        "effective_year_built": 2016,
+                        "identifier": null,
+                        "rooms_count": 9,
+                        "beds_count": 4,
+                        "baths_count": 3,
+                        "half_baths_count": null,
+                        "full_baths_count": 3,
+                        "quarter_baths_count": null,
+                        "three_quarter_baths_count": null,
+                        "stories_count": 2,
+                        "units_count": 1,
+                        "total_size": 3152,
+                        "finished_size": 3152,
+                        "unfinished_size": null,
+                        "basement_size": 1716,
+                        "garage_size": 640,
+                        "height": null,
+                        "architecture_type": "Other",
+                        "exterior_wall_type": "Frame Siding",
+                        "air_conditioning_type": "Central",
+                        "basement_type": null,
+                        "building_type": "Single Family Residence",
+                        "category": "Single Family",
+                        "condition": null,
+                        "construction_type": null,
+                        "fireplace_count": 1,
+                        "fireplace_type": null,
+                        "foundation_type": null,
+                        "flooring_type": null,
+                        "garage_type": "Garage: Attached",
+                        "heating_type": "Central",
+                        "mobile_home": null,
+                        "parking_spaces": null,
+                        "parking_type": "Garage: Attached",
+                        "pool_type": null,
+                        "quality": null,
+                        "roof_type": "Concrete Tile",
+                        "roof_style_type": null,
+                        "electricity_type": null,
+                        "fuel_type": null,
+                        "sewer_type": null,
+                        "water_type": null,
+                        "is_primary": true
+                    }
+                ],
+                "structure_totals": {
+                    "beds": 4,
+                    "baths": 3,
+                    "rooms": 9,
+                    "units": 1,
+                    "sqft": 3152,
+                    "count": 1
+                },
+                "owners": [
+                    {
+                        "corporate_flag": false,
+                        "name": "MICHAEL J MEYER",
+                        "address": "9905 Ramshead Ct",
+                        "address2": null,
+                        "city": "Highlands Ranch",
+                        "state": "CO",
+                        "zip_code": "80130",
+                        "first_name": "MICHAEL",
+                        "middle_name": "J",
+                        "last_name": "MEYER",
+                        "suffix": null,
+                        "ended_at": null,
+                        "started_at": "2001-01-19"
+                    },
+                    {
+                        "corporate_flag": false,
+                        "name": "KATHERINE J GRUBB",
+                        "address": "9905 Ramshead Ct",
+                        "address2": null,
+                        "city": "Highlands Ranch",
+                        "state": "CO",
+                        "zip_code": "80130",
+                        "first_name": "KATHERINE",
+                        "middle_name": "J",
+                        "last_name": "GRUBB",
+                        "suffix": null,
+                        "ended_at": null,
+                        "started_at": "2001-01-19"
+                    }
+                ],
+                "assessments": [
+                    {
+                        "land": 10650,
+                        "improvement": 37930,
+                        "total": 48580,
+                        "exemptions": null,
+                        "tax_amount": 4191,
+                        "tax_year": 2018,
+                        "details": null,
+                        "outstanding_tax": 0,
+                        "appraised_total": null,
+                        "appraised_land": null,
+                        "appraised_improvement": null
+                    }
+                ],
+                "sales": [
+                    {
+                        "date": "2001-01-19",
+                        "recording_date": "2001-01-19",
+                        "price": 364700,
+                        "type": null,
+                        "seller": null,
+                        "buyer": null,
+                        "transaction_id": "742350639",
+                        "document_year": 2001,
+                        "sale_code": null,
+                        "multi_apn": null,
+                        "hpi_adjusted_price_2010": 411323,
+                        "deed_book": null,
+                        "deed_page": null
+                    }
+                ],
+                "mortgages": [
+                    {
+                        "amount": 328200,
+                        "loan_type": null,
+                        "deed_type": null,
+                        "date": "2001-01-19",
+                        "term": null,
+                        "due_date": null,
+                        "lender_name": "LIBERTY HOME LOANS INC",
+                        "details": null
+                    }
+                ],
+                "legal": {
+                    "apn_original": "351827",
+                    "apn_unformatted": "0351827",
+                    "tax_account": "0351827",
+                    "legal_description": "LOT 4 HIGHLANDS RANCH FILING # 90A (16163 SF) 0.371 AM/L",
+                    "type": null,
+                    "planned_urban_development": null
+                },
+                "valuation": {
+                    "value": 705615,
+                    "low": null,
+                    "high": null,
+                    "suggested_rental": null,
+                    "confidence": null,
+                    "market_value_change_year": null,
+                    "market_value_change_quarter": null,
+                    "forecast_1_year": 730995
+                },
+                "status": {
+                    "absentee_owner": false,
+                    "vacant": null,
+                    "market_status": null,
+                    "listing_price": null,
+                    "rental_price": null
+                },
+                "postal": {
+                    "carrier_code": null,
+                    "delivery_point_code": null,
+                    "delivery_point_check_digit": null,
+                    "validated": false,
+                    "deliverable": null,
+                    "details": null
+                },
+                "geographies": {
+                    "county": {
+                        "name": "Douglas",
+                        "state_fips_code": "08",
+                        "fips_code": "035"
+                    },
+                    "census": {
+                        "census_tract": 14140,
+                        "census_block": 1006
+                    },
+                    "cbsa": {
+                        "name": "DENVER-AURORA, CO METROPOLITAN STATISTICAL AREA",
+                        "code": "19740",
+                        "type": null
+                    },
+                    "school_elementary": {
+                        "geoid": "805310",
+                        "name": "Littleton School District 6",
+                        "low_grade": "PK",
+                        "high_grade": "12",
+                        "type": "Unified"
+                    },
+                    "school_secondary": {
+                        "geoid": "805310",
+                        "name": "Littleton School District 6",
+                        "low_grade": "PK",
+                        "high_grade": "12",
+                        "type": "Unified"
+                    },
+                    "congressional": "",
+                    "state_legislative_upper": {
+                        "name": "State Senate District 27"
+                    },
+                    "state_legislative_lower": {
+                        "name": "State House District 43"
+                    },
+                    "police": {
+                        "name": "Douglas County Sherriff's Department",
+                        "type": "County",
+                        "city": null,
+                        "state_fips": "08",
+                        "county_fips": "08035"
+                    },
+                    "fire": null,
+                    "flood": {
+                        "fima_flood_zone": null,
+                        "annual_flood_risk": null,
+                        "firm_panel_id": null
+                    },
+                    "neighborhood": null
+                }
+            }
+        ],
+        "error": ""
+    },
+    "status": 200,
+    "statusText": "",
+    "headers": {
+        "content-type": "application/json; charset=utf-8",
+        "cache-control": "private",
+        "content-length": "2124"
+    },
+    "config": {
+        "url": "https://us-central1-re-app-606bc.cloudfunctions.net/api/propertydata?address=9905%20ramshead%20Ct&city=highlands%20ranch&state=co&fulladdress=9905%20ramshead%20Ct%20highlands%20ranch%20co",
+        "headers": {
+            "Accept": "application/json, text/plain, */*"
+        },
+        "transformRequest": [
+            null
+        ],
+        "transformResponse": [
+            null
+        ],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "method": "get"
+    },
+    "request": {}
+}
